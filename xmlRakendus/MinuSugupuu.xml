@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<inimene saasta="1957">
+	<nimi>Natalja Saveljeva</nimi>
+	<lapsed>
+		<inimene saasta="1982">
+			<nimi>Tatjana Saveljeva</nimi>
+			<lapsed>
+				<inimene saasta="2007">
+					<nimi>Valeria Allik</nimi>
+				</inimene>
+			</lapsed>
+		</inimene>
+		<inimene saasta="1978">
+			<nimi>Jevgeni Saveljev</nimi>
+			<lapsed>
+				<inimene saasta="2012">
+					<nimi>Miron Saveljev</nimi>
+				</inimene>
+				<inimene saasta="2015">
+					<nimi>Mia Saveljeva</nimi>
+				</inimene>
+			</lapsed>
+		</inimene>
+	</lapsed>
+</inimene>
