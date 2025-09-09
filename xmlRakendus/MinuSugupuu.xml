@@ -1,22 +1,22 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
-<inimene saasta="1957">
+<inimene saasta="1957" elukoht="Tallinn">
 	<nimi>Natalja Saveljeva</nimi>
 	<lapsed>
-		<inimene saasta="1982">
+		<inimene saasta="1982" elukoht="Tallinn">
 			<nimi>Tatjana Saveljeva</nimi>
 			<lapsed>
-				<inimene saasta="2007">
+				<inimene saasta="2007" elukoht="Tallinn">
 					<nimi>Valeria Allik</nimi>
 				</inimene>
 			</lapsed>
 		</inimene>
-		<inimene saasta="1978">
+		<inimene saasta="1978" elukoht="Tallinn">
 			<nimi>Jevgeni Saveljev</nimi>
 			<lapsed>
-				<inimene saasta="2012">
+				<inimene saasta="2012" elukoht="Tallinn">
 					<nimi>Miron Saveljev</nimi>
 				</inimene>
-				<inimene saasta="2015">
+				<inimene saasta="2015" elukoht="Tallinn">
 					<nimi>Mia Saveljeva</nimi>
 				</inimene>
 			</lapsed>
