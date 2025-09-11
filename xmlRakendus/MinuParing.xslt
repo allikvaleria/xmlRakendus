@@ -10,7 +10,8 @@
 				<h2>Kõik andmed tabelina</h2>
 				<table border="1">
 					<tr>
-						<th>Nimi</th>
+						<th>Vanem</th>
+						<th>Laps</th>
 						<th>Sünniaasta</th>
 						<th>Vanus</th>
 						<th>Elukoht</th>
@@ -19,6 +20,9 @@
 					</tr>
 					<xsl:for-each select="//inimene">
 						<tr>
+							<td>
+								<xsl:value-of select="../../nimi"/>
+							</td>
 							<td>
 								<xsl:choose>
 									<!-- Värvi nimed mis sisaldavad 'i' tähte punasena -->
